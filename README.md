@@ -342,6 +342,11 @@ php artisan migrate
 php artisan serve
 ````
 
+- ![Register page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/Json-Web-Token-Api-Auth/demo-img/register-page.png)
+- ![login page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/Json-Web-Token-Api-Auth/demo-img/login-page.png)
+- ![profile page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/Json-Web-Token-Api-Auth/demo-img/profile-page.png)
+- ![logout page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/Json-Web-Token-Api-Auth/demo-img/logout-page.png)
+
 
 
 
