@@ -38,4 +38,4 @@ http://localhost:8000
 - ![Home page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/Scaffolding-Auth/demo-img/home-page.png)
 - ![Register page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/Scaffolding-Auth/demo-img/register-page.png)
 - ![Login page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/Scaffolding-Auth/demo-img/login-page.png)
-- ![Dashboard page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/Scaffolding-Auth/demo-img/dasboard-page.png)
+- ![Dashboard page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/Scaffolding-Auth/demo-img/dashboard-page.png)
