@@ -65,7 +65,7 @@ http://localhost:8000
 - ![Home page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/Jetstream-Auth/demo-img/home-page.png)
 - ![Register page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/Jetstream-Auth/demo-img/register-page.png)
 - ![Login page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/Jetstream-Auth/demo-img/login-page.png)
-- ![Dashoard page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/Jetstream-Auth/demo-img/dasboard-page.png)
+- ![Dashoard page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/Jetstream-Auth/demo-img/dashboard-page.png)
 
 
 
