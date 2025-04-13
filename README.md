@@ -37,6 +37,6 @@ http://localhost:8000
 - ![Home page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/main/demo-img/home-page.png)
 - ![Register page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/main/demo-img/register-page.png)
 - ![Home page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/main/demo-img/login-page.png)
-- ![Home page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/main/demo-img/dasboard-page.png)
+- ![Home page](https://github.com/mohibulkhan786/All-Auth-in-Laravel/blob/main/demo-img/dasboard.png)
 
 
