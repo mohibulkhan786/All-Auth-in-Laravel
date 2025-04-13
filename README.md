@@ -30,4 +30,8 @@ npm install && npm run dev
 ````
 php artisan serve
 ````
+- Now, Go to your web browser, type the given URL and view the app output:
+````
+http://localhost:8000
+````
 
